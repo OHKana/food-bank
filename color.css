@@ -55,6 +55,7 @@ p{
  }
  .bottom{
     display: flex;
+    height: 600px;
     margin: 50px;
     justify-content: space-between;
  }
